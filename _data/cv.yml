@@ -75,7 +75,7 @@ cv:
           - Responsible for the microbiological analyses of various matrices such as food, water, pharmaceuticals, and environmental samples, among others.
           
     Internships and Fellowships:
-      - company: World Organization for Animal Health - Regional Representative for the Asia-Pacific
+      - company: World Organization for Animal Health Regional Representative for the Asia-Pacific
         location: Tokyo, Japan
         start_date: 2024
         end_date: 2024
@@ -99,7 +99,88 @@ cv:
         location: Taguig City, Philippines
         start_date: 2015
         end_date: 2015
+    
+    Memberships:
+      - name: National Research Council of the Philippines
+        summary: "Associate Member"
+        start_date: 2021
 
+      - name: Philippine Academy of Microbiology
+        summary: "Registered Microbiologist"
+        start_date: 2018
+        
+      - name: International Society for Fish and Shellfish Immunology
+        summary: "Member"
+        start_date: 2025
+
+      - name: World Aquaculture Society
+        summary: "Student Member"
+        start_date: 2025
+
+      - name: World Aquatic Veterinary Medicine Association 
+        summary: "Student Member"
+        start_date: 2025
+
+      - name: International Society for Southeast Asian Agricultural Sciences
+        summary: "Member"
+        start_date: 2025
+
+      - name: Asian Fisheries Society Fish Health Section
+        summary: "Member"
+        start_date: 2022
+        
+      - name: American Society of Microbiology
+        summary: "Global Outreach Member"
+        start_date: 2017
+
+      - name: Japanese Society for Fisheries Science
+        summary: "Member"
+        start_date: 2023
+        
+      - name: Molecular Biology Society of Japan
+        summary: "Member"
+        start_date: 2024
+
+      - name: Japanese Society for Tropical Agriculture
+        summary: "Cooperative Member"
+        start_date: 2025
+        
+      - name: Philippine Society for Microbiology
+        summary: "Lifetime Member"
+        start_date: 2017
+        
+      - name: Philippine Society for Cell Biology
+        summary: "Member"
+        start_date: 2017
+        
+      - name: Philippine Society for Biochemistry and Molecular Biology
+        summary: "Member"
+        start_date: 2017       
+        
+      - name: Philippine Network of Microbial Culture Collections
+        summary: "Member"
+        start_date: 2017
+        
+      - name: Philippine Association for the Advancement of Science and Technology
+        summary: "Member"
+        start_date: 2017
+        
+      - name: Philippine Society for Probiotics and Functional Foods
+        summary: "Member"
+        start_date: 2017
+        
+      - name: Biology Teachers Association of the Philippines
+        summary: "Member"
+        start_date: 2017
+        
+      - name: Mycological Society of the Philippines
+        summary: "Member"
+        start_date: 2017     
+        
+      - name: Natural Products Society of the Philippines
+        summary: "Member"
+        start_date: 2017        
+        
     Languages:
       - name: Filipino
         summary: "Native speaker"
