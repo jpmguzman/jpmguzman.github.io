@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-06-12'
 papers:
   leeWFkoAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: In silico Characterization of a Fibrinogen-Related Protein of Manila Clam (Ruditapes philippinarum) Identifies Domains Critical for Immune Response Against Pathogens
     year: Unknown Year
   leeWFkoAAAAJ:3fE2CSJIrl8C:
-    citations: 11
+    citations: 12
     title: "Terminalia catappa L. leaf extract interferes with biofilm formation of Vibrio parahaemolyticus and enhances immune response of Penaeus vannamei against acute hepatopancreatic \u2026"
     year: '2024'
   leeWFkoAAAAJ:4TOpqqG69KYC:
@@ -26,7 +26,7 @@ papers:
     title: Role of a ficolin in the innate immune mechanisms of Penaeus vannamei against Vibrio parahaemolyticus
     year: '2025'
   leeWFkoAAAAJ:IWHjjKOFINEC:
-    citations: 0
+    citations: 1
     title: Freeze-Dried Lactiplantibacillus plantarum Regulates Formation of Extracellular Traps in Penaeus vannamei Ex Vivo
     year: '2025'
   leeWFkoAAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: 'Uncovering the role of a gill ficolin: regulatory mechanisms on the immunity of Penaeus vannamei'
     year: '2025'
   leeWFkoAAAAJ:QIV2ME_5wuYC:
-    citations: 0
+    citations: 1
     title: "Transcriptome analysis revealed immune protection of formalin-killed cell\u2500 Vibrio parahaemolyticus bath vaccination in whiteleg shrimp (Penaeus vannamei) against AHPND"
     year: '2025'
   leeWFkoAAAAJ:Se3iqnhoufwC:
@@ -46,7 +46,7 @@ papers:
     title: Targeting quorum sensing and biofilm formation in the control of Vibrio harveyi infections in Penaeus vannamei
     year: '2022'
   leeWFkoAAAAJ:ULOm3_A8WrAC:
-    citations: 2
+    citations: 3
     title: Assessing the impact of Lactiplantibacillus plantarum feed additive on Vibrio parahaemolyticus crosstalk and the gill and gut microbiota compositions in Penaeus vannamei
     year: '2025'
   leeWFkoAAAAJ:UeHWp8X0CEIC:
@@ -62,7 +62,7 @@ papers:
     title: "Disturbance in muscular calcium homeostasis plays key role in the pathogenesis of white muscle disease in Kuruma shrimp (Penaeus japonicus) based on transcriptome analyses of \u2026"
     year: '2025'
   leeWFkoAAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: 'Attenuating Vibrio harveyi Virulence Through Quorum Sensing Interference Using Piperine: An In Vitro and In Silico Approach'
     year: '2025'
   leeWFkoAAAAJ:ZeXyd9-uunAC:
@@ -70,7 +70,7 @@ papers:
     title: Identification of immunoglobulins from Triaenodon obesus through de novo transcriptome analysis
     year: '2025'
   leeWFkoAAAAJ:Zph67rFs4hoC:
-    citations: 5
+    citations: 7
     title: "Transcriptome analyses of mRNA and circular RNA reveal dietary supplementation with freeze-dried Lactiplantibacillus plantarum primes immune memory of White leg shrimp (Penaeus \u2026"
     year: '2024'
   leeWFkoAAAAJ:_FxGoFyzp5QC:
@@ -85,6 +85,10 @@ papers:
     citations: 0
     title: Effects of lactic acid bacteria (LAB) on the immune response and resistance of White leg shrimp Penaeus vannamei against diseases
     year: Unknown Year
+  leeWFkoAAAAJ:hFOr9nPyWt4C:
+    citations: 0
+    title: Transcriptome analysis revealed immune protection conferred by bath vaccination with formalin-killed Vibrio parahaemolyticus on Penaeus vannamei
+    year: '2026'
   leeWFkoAAAAJ:mVmsd5A6BfQC:
     citations: 0
     title: Exploring the gut microbiota of Siganus fuscescens with inferred functional roles in nutrient utilization
@@ -94,7 +98,7 @@ papers:
     title: Metagenomic Insights on the Progression of White Muscle Disease in Kuruma Shrimp (Penaeus japonicus) Caused by Photobacterium damselae subsp. damselae
     year: '2026'
   leeWFkoAAAAJ:qjMakFHDy7sC:
-    citations: 126
+    citations: 130
     title: Comparative antibacterial activity of commercial chitosan and chitosan extracted from Auricularia sp.
     year: '2019'
   leeWFkoAAAAJ:roLk4NBRz8UC:
