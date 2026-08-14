@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-14'
 papers:
   leeWFkoAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -22,11 +22,11 @@ papers:
     title: Colony-stimulating factors on cellular activation and development of Japanese flounder immune cells
     year: '2025'
   leeWFkoAAAAJ:9ZlFYXVOiuMC:
-    citations: 2
+    citations: 3
     title: Role of a ficolin in the innate immune mechanisms of Penaeus vannamei against Vibrio parahaemolyticus
     year: '2025'
   leeWFkoAAAAJ:IWHjjKOFINEC:
-    citations: 1
+    citations: 2
     title: Freeze-Dried Lactiplantibacillus plantarum Regulates Formation of Extracellular Traps in Penaeus vannamei Ex Vivo
     year: '2025'
   leeWFkoAAAAJ:IjCSPb-OGe4C:
@@ -46,7 +46,7 @@ papers:
     title: Targeting quorum sensing and biofilm formation in the control of Vibrio harveyi infections in Penaeus vannamei
     year: '2022'
   leeWFkoAAAAJ:ULOm3_A8WrAC:
-    citations: 3
+    citations: 4
     title: Assessing the impact of Lactiplantibacillus plantarum feed additive on Vibrio parahaemolyticus crosstalk and the gill and gut microbiota compositions in Penaeus vannamei
     year: '2025'
   leeWFkoAAAAJ:UeHWp8X0CEIC:
@@ -62,7 +62,7 @@ papers:
     title: "Disturbance in muscular calcium homeostasis plays key role in the pathogenesis of white muscle disease in Kuruma shrimp (Penaeus japonicus) based on transcriptome analyses of \u2026"
     year: '2025'
   leeWFkoAAAAJ:YOwf2qJgpHMC:
-    citations: 4
+    citations: 5
     title: 'Attenuating Vibrio harveyi Virulence Through Quorum Sensing Interference Using Piperine: An In Vitro and In Silico Approach'
     year: '2025'
   leeWFkoAAAAJ:ZeXyd9-uunAC:
@@ -70,7 +70,7 @@ papers:
     title: Identification of immunoglobulins from Triaenodon obesus through de novo transcriptome analysis
     year: '2025'
   leeWFkoAAAAJ:Zph67rFs4hoC:
-    citations: 6
+    citations: 8
     title: "Transcriptome analyses of mRNA and circular RNA reveal dietary supplementation with freeze-dried Lactiplantibacillus plantarum primes immune memory of White leg shrimp (Penaeus \u2026"
     year: '2024'
   leeWFkoAAAAJ:_FxGoFyzp5QC:
@@ -89,6 +89,10 @@ papers:
     citations: 0
     title: Transcriptome analysis revealed immune protection conferred by bath vaccination with formalin-killed Vibrio parahaemolyticus on Penaeus vannamei
     year: '2026'
+  leeWFkoAAAAJ:mB3voiENLucC:
+    citations: 0
+    title: Single-cell RNA sequencing provides further insights into the immunostimulatory action of freeze-dried Lactiplantibacillus plantarum on Penaeus vannamei shrimp
+    year: '2026'
   leeWFkoAAAAJ:mVmsd5A6BfQC:
     citations: 0
     title: Exploring the gut microbiota of Siganus fuscescens with inferred functional roles in nutrient utilization
@@ -102,7 +106,7 @@ papers:
     title: Comparative antibacterial activity of commercial chitosan and chitosan extracted from Auricularia sp.
     year: '2019'
   leeWFkoAAAAJ:roLk4NBRz8UC:
-    citations: 5
+    citations: 6
     title: The need for wastewater surveillance of enteroviruses in the Philippines
     year: '2022'
   leeWFkoAAAAJ:u-x6o8ySG0sC:
